@@ -56,10 +56,3 @@ I'm a builder, not an influencer. I measure the work by what it does for the bus
   <a href="https://calendly.com/stopidesigner/30min"><b>Got a project in mind? Book a 30-min call →</b></a>
 </p>
 
----
-
-<h2 align="center">📊 Activity</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lord-ai-coder&background=0D0221&border=6D28D9&ring=C084FC&fire=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C084FC&sideLabels=C4B5FD&dates=8B7FB0&hide_border=false&border_radius=12" alt="GitHub streak" />
-</p>
