@@ -33,12 +33,10 @@ I'm a builder, not an influencer. I measure the work by what it does for the bus
 
 ---
 
-<h2 align="center">🛠️ Stack</h2>
+<h2 align="center">🛠️ Tools I use every day</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,blender,threejs&theme=dark" alt="Design tools" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,supabase,postgres,cloudflare,vercel,notion,git,vscode&theme=dark" alt="Development tools" />
+  <img src="assets/tools.png" width="560" alt="Figma, Framer, Spline, Rotato, Adobe, ChatGPT, Claude, n8n, Notion, Google, Loop" />
 </p>
 
 ---
